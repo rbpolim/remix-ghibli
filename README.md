@@ -2,7 +2,7 @@
 
 # Project
 
-A website to Explore & Search about all films by Studio Ghibli, built w/ [Remix](https://remix.run/) & Tailwind.
+A website to Explore & Search about all films by Studio Ghibli, built w/ Remix & Tailwind.
 
 ## Tech Stack
 
@@ -12,6 +12,6 @@ A website to Explore & Search about all films by Studio Ghibli, built w/ [Remix]
 
 ## Techs
 
-- Remix
-- TailWindCSS
+- [Remix](https://remix.run/)
+- [TailWindCSS](https://tailwindcss.com/)
 - [Studio Ghibli API](https://ghibliapi.herokuapp.com/)
